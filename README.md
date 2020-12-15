@@ -21,7 +21,7 @@ Suelo usar GitHub para los trabajos de la Uni pero a veces programo por mi cuent
 
 ¿Necesitas mirar algo porque te cuesta alguna práctica? ¡Adelante, echa un vistazo! (Pero no hagas una copia descarada oye)
 
-También tengo por ahí un prototipo de chatbot para Twitch y un juego que me moló tanto que lo puse para jugar [aquí](https://ivanitix.github.io/DROM)
+También tengo por ahí un prototipo de chatbot para Twitch y un juego que hice que me moló tanto que lo puse para jugar [aquí](https://ivanitix.github.io/DROM)
 
 ## ¿Qué lenguajes has manejado?
 <img src="Lenguajes.png" width="50%">
