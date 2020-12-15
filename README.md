@@ -21,4 +21,4 @@ Suelo usar GitHub para los trabajos de la Uni pero a veces programo por mi cuent
 ¿Necesitas mirar algo porque te cuesta alguna práctica? ¡Adelante, echa un vistazo! (Pero no hagas una copia descarada oye)
 
 ## ¿Qué lenguajes has manejado?
-![Lenguajes](Lenguajes.png)
+<img src="Lenguajes.png" width="50%">
