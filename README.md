@@ -26,4 +26,4 @@ También tengo por ahí un prototipo de chatbot para Twitch y un juego que hice 
 ## ¿Qué lenguajes has manejado?
 <img src="Lenguajes.png" width="50%">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanitiX&langs_count=20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanitiX&langs_count=20&layout=compact&bg_color=30,3399ff,3333ff&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
