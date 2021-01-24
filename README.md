@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # ¡Hey, hola!
-Soy Iván, un estudiante de Ingeniería Informática en la Universidad de Granada. (Y a veces juego videojuegos mientras transmito por Twitch)
+### Soy Iván, un estudiante de Ingeniería Informática en la Universidad de Granada. (Y a veces juego videojuegos mientras transmito por Twitch)
 
 ## ¿Qué puedo encontrar entre las repos?
 Suelo usar GitHub para los trabajos de la Uni pero a veces programo por mi cuenta (si me apetece y no me mancillan a tareas).
@@ -22,8 +22,5 @@ Suelo usar GitHub para los trabajos de la Uni pero a veces programo por mi cuent
 ¿Necesitas mirar algo porque te cuesta alguna práctica? ¡Adelante, echa un vistazo! (Pero no hagas una copia descarada oye)
 
 También tengo por ahí un prototipo de chatbot para Twitch y un juego que hice que me moló tanto que lo puse para jugar [aquí](https://ivanitix.github.io/DROM)
-
-## ¿Qué lenguajes has manejado?
-<img src="Lenguajes.png" width="50%">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanitiX&langs_count=20&layout=compact&bg_color=30,3399ff,3333ff&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
