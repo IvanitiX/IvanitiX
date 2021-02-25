@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # ¡Hey, hola!
-### Soy Iván, un estudiante de Ingeniería Informática en la Universidad de Granada. (Y a veces juego videojuegos mientras transmito por Twitch)
+### Soy Iván, un estudiante de Ingeniería Informática en la Universidad de Granada.
 
 ## ¿Qué puedo encontrar entre las repos?
 Suelo usar GitHub para los trabajos de la Uni pero a veces programo por mi cuenta (si me apetece y no me mancillan a tareas).
