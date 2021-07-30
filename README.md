@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
 <a href="https://twitter.com/ivaninvr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ivaninvr" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/iván-valero-rodriguez-92a349115" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iván-valero-rodriguez" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/iván-valero-rodríguez-92a349115" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iván-valero-rodriguez" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">¿Qué he ido manejando?</h3>
